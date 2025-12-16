@@ -17,7 +17,7 @@ function PortFolio() {
     },
 
     {
-      id: 2,
+      id: 4,
       logo: <FaChartLine className="text-6xl text-emerald-500" />
 ,
       name: "Revenue_forecasting",
@@ -38,7 +38,7 @@ function PortFolio() {
 
 
      {
-      id: 4,
+      id: 2,
       logo: <FaWallet className="text-6xl text-yellow-500" />,
       name: "WALLET_TRACKER",
       demoLink: "https://wallet-tracker-seven-rho.vercel.app/",
