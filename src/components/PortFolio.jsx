@@ -21,7 +21,7 @@ function PortFolio() {
       logo: <FaChartLine className="text-6xl text-emerald-500" />
 ,
       name: "Revenue_forecasting",
-      demoLink: "https://hrevenueforecasting-3fgbrcg9fy7idunblgbajx.streamlit.app/",
+      demoLink: "https://github.com/Arun-IIITD/revenue-main",
       sourceLink: "https://github.com/Arun-IIITD/revenue-main",
     },
 
