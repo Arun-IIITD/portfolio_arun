@@ -7,9 +7,9 @@ function PortFolio() {
       id: 1,
       logo: <FaTasks className="text-6xl text-purple-500" />,
       name: "TO_DO_APP",
-      demoLink: "https://todo-app-beta-gold.vercel.app/",
+      demoLink: "https://todo-app-main-virid.vercel.app/",
 
-      sourceLink: "https://github.com/Arun-IIITD/todo_app",
+      sourceLink: "https://github.com/Arun-IIITD/todo_app-main",
     },
     {
       id: 2,
