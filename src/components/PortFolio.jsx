@@ -3,8 +3,17 @@ import { FaShoppingCart, FaTasks, FaWallet, FaChartLine } from "react-icons/fa";
 
 function PortFolio() {
   const cardItem = [
-    {
+
+       {
       id: 1,
+      logo: <FaTasks className="text-6xl text-purple-500" />,
+      name: "BLOG_APP",
+      demoLink: "https://blogs-app-admin.vercel.app/",
+
+      sourceLink: "https://github.com/Arun-IIITD/blogs_app_admin",
+    },
+    {
+      id: 2,
       logo: <FaTasks className="text-6xl text-purple-500" />,
       name: "TO_DO_APP",
       demoLink: "https://todo-app-omega-six-90.vercel.app/",
@@ -12,21 +21,21 @@ function PortFolio() {
       sourceLink: "https://github.com/Arun-IIITD/todo_app",
     },
     {
-      id: 2,
+      id: 3,
       logo: <FaWallet className="text-6xl text-yellow-500" />,
       name: "WALLET_TRACKER",
       demoLink: "https://wallet-tracker-seven-rho.vercel.app/",
       sourceLink: "https://github.com/Arun-IIITD/wallet_tracker",
     },
     {
-      id: 3,
+      id: 4,
       logo: <FaShoppingCart className="text-6xl text-green-500" />,
       name: "QKART",
       demoLink: "https://qkart-qd3l.vercel.app/",
       sourceLink: "https://github.com/Arun-IIITD/QKART",
     },
     {
-      id: 4,
+      id: 5,
       logo: <FaChartLine className="text-6xl text-emerald-500" />,
       name: "REVENUE_FORECASTING",
       demoLink: null, // Project in progress
